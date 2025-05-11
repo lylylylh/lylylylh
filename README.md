@@ -1,5 +1,3 @@
-## YUNHEE LEE
-
 #### Konkuk Univ Computer Science Engineering 22
 
 <!--
