@@ -1,4 +1,6 @@
-## Hi there 👋
+## YUNHEE LEE
+
+#### Konkuk Univ Computer Science Engineering 22
 
 <!--
 **lylylylh/lylylylh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
