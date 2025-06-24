@@ -7,8 +7,9 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lylylylh)](https://solved.ac/profile/lylylylh)
 
-![3D Contribution Zoo](https://github-contributor-stats.vercel.app/api/contributors?user=lylylylh)
-
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{lylylylh}"/>
+</a>
 
 <!--
 **lylylylh/lylylylh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
