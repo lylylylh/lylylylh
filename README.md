@@ -7,7 +7,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lylylylh)](https://solved.ac/profile/lylylylh)
 
-![cat waving](https://raw.githubusercontent.com/VeronikaMackova/VeronikaMackova/main/assets/cat-wave.gif)
+![3D Contribution Zoo](https://github-contributor-stats.vercel.app/api/contributors?user=lylylylh)
 
 
 <!--
