@@ -6,7 +6,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lylylylh)](https://solved.ac/profile/lylylylh)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lylylylh&show_icons=true&theme=tokyonight)
 
 <!--
 **lylylylh/lylylylh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
