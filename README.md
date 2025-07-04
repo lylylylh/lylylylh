@@ -1,4 +1,4 @@
-#### Konkuk Univ. Computer Science Engineering 22
+#### Konkuk Univ. Computer Science Engineering 
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
